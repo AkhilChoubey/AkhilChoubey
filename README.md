@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **akhilchoubey@gmail.com**
 
-- ⚡ Fun fact **I came to know about stackoverflow after completing 2 of my project .**
+- ⚡ Fun fact **I came to know about stackoverflow after completing 2 of my projects .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
