@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akhil Choubey</h1>
 <h3 align="center">A learner who can code!</h3>
 
-<br>
-- 👨‍💻 All of my projects are available at [portfolio!!](https://akhilchoubey.github.io/Portfolio/)
+
+- 👨‍💻 All of my projects are available at [https://akhilchoubey.github.io/Portfolio/](https://akhilchoubey.github.io/Portfolio/)
 
 - 📫 How to reach me **akhilchoubey@gmail.com**
 
