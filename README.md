@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil Choubey</h1>
 <h3 align="center">A learner who can code!</h3>
 
-- 🌱 I’m currently learning **React.Js**
 
 - 👨‍💻 All of my projects are available at [https://akhilchoubey.github.io/Portfolio/](https://akhilchoubey.github.io/Portfolio/)
 
