@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akhilchoubey.github.io/Portfolio/](https://akhilchoubey.github.io/Portfolio/)
 
-- 📫 How to reach me **akhilchoubey@gmail.com**
+- 📫 How to reach me **akhilchoubeys@gmail.com**
 
 - ⚡ Fun fact **I came to know about stackoverflow after completing 2 of my projects .**
 <br>
