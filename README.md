@@ -1,4 +1,4 @@
-<img src="pic2.jpeg" style="width : 100%; height: 10rem;">
+ ![alt text](pic1.jpeg)
 
 <h1 align="center">Hi 👋, I'm Akhil Choubey</h1>
 <h3 align="center">A learner who can code!</h3>
