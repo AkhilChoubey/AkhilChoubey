@@ -1,4 +1,4 @@
-![alt text](pic1.jpeg)
+![alt text](pic4.jpeg)
 
 <h1 align="center">Hi 👋, I'm Akhil Choubey</h1>
 <h3 align="center">A learner who can code!</h3>
