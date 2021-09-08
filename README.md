@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I came to know about stackoverflow after completing 2 of my projects .**
 <br>
-![](https://komarev.com/ghpvc/?username=AkhilChoubey)
+ ![](https://komarev.com/ghpvc/?username=AkhilChoubey)
 
 <br>
 
