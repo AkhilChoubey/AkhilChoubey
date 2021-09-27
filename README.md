@@ -4,7 +4,7 @@
 <h3 align="center">A learner who can code!</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://akhilchoubey.github.io/Portfolio/](https://akhilchoubey.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://akhilportfolio007.netlify.app/](https://akhilportfolio007.netlify.app/)
 
 - 📫 How to reach me **akhilchoubeys@gmail.com**
 
